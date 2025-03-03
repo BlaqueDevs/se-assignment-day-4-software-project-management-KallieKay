@@ -103,11 +103,32 @@ Creating a gantt chart provides a total overview of the project from start to fi
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+The core issues that my software aims to address is basically being able to monitor your newborn baby within the comfort of using your phone(an extra phone) to do so, without having to go out to a store and purchase some fancy and expensive gadgets that require you to go through a rigorousprocess of setup. All that is needed is an extra phone. This is significant to my target audience because it can save them a whole lot of time, energy and money. I know how hectic things may get once a newborn arrives in this world so my aim to just to make the new-mom experience a bit easier and simpler.  
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
-Put simply, a problem statement clearly defines – in a concise but comprehensive way – a key business problem that needs to be solved. In software development, the problem statement says, “What has to be done” for a project to succeed – to meet the needs of its stakeholders who are external to the development.
+Put simply, a problem statement clearly defines – in a concise but comprehensive way – a key business problem that needs to be solved. In software development, the problem statement says, “What has to be done” for a project to succeed – to meet the needs of its stakeholders who are external to the development. Clearly defining the problem can help in developing a more effective software solution by ensuring solutions are found directly.  
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Imagine being able to monitor your new born baby without having to go through the rigorous process of finding, purchasing and setting up fancy,expensive gadgets that are sold at the store! All that you need is an extra device that you will be able to keep near your baby at all times and a device that will be kept with you at all times.  
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
+It is easy to use and understand, no complicated set-up processes are invloved. 
+It has multiple benefits for all moms, new and old because it's basically like a search engine for anything and everything that you want to know about being a mom and taking care of a newborn baby. It teaches you all tips and tricks! 
+It allows you to network with other moms who might be experiencing anything and everything similar to what you are experiencing!
+There are even professionals on the line that you can reach out and chat to if you are in need of professional medical advice. 
+There is a helpline if you ever fall into depresssive episodes or need support because we realize how difficult post partum healing can become. 
+You can monitor your baby even when you are not nearby them as long as both devices have internet access-Since phones have cameras and microphones, you will be able to see and hear every sound and movement your baby makes. 
+
+
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+There is quite a bit of data available regarding the market size and growth potential for my software. There are thousands and thousands of people who become moms everyday and need software that is just gonna make their lives a bit easier. I do belive that there is a great growth potential since moms(whether new or old) are always on the lookout for life hacks that will make their load a bit lighter and make their lives a bit easier. 
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Understanding these trends enables companies to anticipate market shifts, adapt their strategies, and stay ahead of the competition. By analyzing and responding to market trends, businesses can make informed decisions, identify growth opportunities, and mitigate risks effectively.
+
